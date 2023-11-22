@@ -5,7 +5,8 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/Vw0s-j3KCjUwWOAt0WAlK8W77DkfVvH6WPFHhL3_X40/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.jpeg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastik3616" alt="swastik3616" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik3616&label=Profile%20views&color=0e75b6&style=flat" alt="swastik3616" /> </p>
+
 
 - 🌱 I’m currently learning **AngularJs and ExpressJs**
 
