@@ -5,6 +5,7 @@
 </h1>
 <h3 align="center">A Full Stack Developer/Machine Learning and Artificial Intellegence Enthuists</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br/>
 
 <div align="center">
