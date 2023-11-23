@@ -3,8 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swastik+kulkarni!;" />
 </h1>
-<image align="right" alt="coding"width="400"src=["https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"](https://imgs.search.brave.com/2WEDKSId23C2oQ1Bpbg0uPByvnw44Qw8i8MBKyWIerc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif)>
-
 <h3 align="center">A Full Stack Developer/Machine Learning and Artificial Intellegence Enthuists</h3>
 
 <br/>
