@@ -12,7 +12,9 @@
  
  🔭 I’m currently working on **Projects**
  
- 🌱 I’m currently learning **ReactJs,NodeJs,Python**
+ 🌱 I’m currently learning **AngularJs and NodeJs**
+
+ You Can ask me in **ReactJs,NodeJs,Python**
 
 ⚡ Fun fact **Game of Thrones Night's Watch clocks are made from Ikea rugs**
 
