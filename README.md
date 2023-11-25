@@ -4,12 +4,10 @@
 </h1>
 <h3> align="center">A Full Stack Developer/Machine Learning and Artificial Intellegence Enthuists</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<br/>
 - 🌱 I’m currently learning **AngularJs and NextJs**
   
-
 - 💬 Ask me about **ReactJs,Python,NodeJs**
 
 - 📫 How to reach me **swastikkulkarni737@gmail.com**
