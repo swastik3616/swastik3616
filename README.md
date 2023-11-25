@@ -8,6 +8,7 @@
 
 
 - 🌱 I’m currently learning **AngularJs and NextJs**
+  
 
 - 💬 Ask me about **ReactJs,Python,NodeJs**
 
