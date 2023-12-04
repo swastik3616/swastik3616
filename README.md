@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **swastikkulkarni737@gmail.com**
 
-- To know about my Experiences https://drive.google.com/drive/u/0/folders/166X5a-KrvWUk750vZO482dwH7oSuPmSF
+- To know about my Experiences https://drive.google.com/file/d/1sjIAwoENQijbh4AtYn801x5kQR1OoE8l/view?usp=sharing
 
-- To check my overview and as well as about the projects you can check on [http://127.0.0.1:5500/portfolio/index.html](https://swastik3616.github.io/Portfolio/)
+- To check my overview and as well as about the projects you can check on https://swastik3616.github.io/Portfolio/
 
 - ⚡ Fun fact **I have a passion for Battle Ground Mobile India, but I have never played it before.**
 
