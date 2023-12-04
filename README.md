@@ -14,7 +14,7 @@
 
 - To know about my Experiences https://drive.google.com/drive/u/0/folders/166X5a-KrvWUk750vZO482dwH7oSuPmSF
 
-- To check my overview and as well as about the projects you can check on http://127.0.0.1:5500/portfoliobywebcog/index.html
+- To check my overview and as well as about the projects you can check on http://127.0.0.1:5500/portfilo/index.html
 
 - ⚡ Fun fact **I have a passion for Battle Ground Mobile India, but I have never played it before.**
 
