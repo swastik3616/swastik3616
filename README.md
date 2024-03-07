@@ -8,7 +8,7 @@
 <br>
 - 🌱 I’m currently learning **AngularJs and NextJs**
   
-- 💬 Ask me about **ReactJs,Python,NodeJs**
+- 💬 Ask me about **ReactJs,Python,NodeJs,Flask**
 
 - 📫 How to reach me **swastikkulkarni737@gmail.com**
 
