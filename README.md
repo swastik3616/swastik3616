@@ -6,9 +6,9 @@
      
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>
-- 🌱 I’m currently learning **AngularJs and NextJs**
+- 🌱 I’m currently learning **TypeScript and NextJs**
   
-- 💬 Ask me about **ReactJs,Python,NodeJs,Flask**
+- 💬 Ask me about **ReactJs,Python, NodeJs, Flask**
 
 - 📫 How to reach me **swastikkulkarni737@gmail.com**
 
