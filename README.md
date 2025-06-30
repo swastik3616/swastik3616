@@ -90,13 +90,4 @@ _Here's a glimpse of the technologies I work with:_
 
 ---
 
-### Support My Work
 
-<div align="center">
-  <p>_Enjoying my content or finding my projects helpful? Consider buying me a coffee!_</p>
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</div>
-
-<br/>
