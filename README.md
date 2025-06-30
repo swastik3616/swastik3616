@@ -13,14 +13,9 @@
 
 ### About Me
 
--   🌱 **Currently Leveling Up:** Diving deep into **TypeScript** and **Next.js** to build even more robust and scalable applications.
--   💬 **Let's Talk Tech:** Feel free to ask me anything about **React.js, Python, Node.js,** and **Flask**. I love discussing and sharing knowledge!
+-   🌱 **Currently Leveling Up:** Diving deep into **Azure** to build even more robust and scalable applications.
+-   💬 **Let's Talk Tech:** Feel free to ask me anything about **SQL,MongoDB, Python, PowerBI,** and **Flask**. I love discussing and sharing knowledge!
 -   📧 **Connect Directly:** Reach out to me at [swastikkulkarni737@gmail.com](mailto:swastikkulkarni737@gmail.com)
--   🔗 **Explore My Journey:**
-    -   📄 **My Experiences (Resume/CV):** [View Here](https://drive.google.com/file/d/1sjIAwoENQijbh4AtYn801x5kQR1OoE8l/view?usp=sharing)
-    -   🌐 **Portfolio & Projects Overview:** [Visit My Portfolio](https://swastik3616.github.io/Portfolio/)
--   ⚡ **Fun Fact:** I have a surprising passion for Battle Ground Mobile India, despite never having played it! 🎮
-
 ---
 
 ### 🌐 Let's Connect!
