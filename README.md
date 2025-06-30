@@ -15,10 +15,10 @@
 
 -   🌱 **Currently Leveling Up:** Diving deep into **TypeScript** and **Next.js** to build even more robust and scalable applications.
 -   💬 **Let's Talk Tech:** Feel free to ask me anything about **React.js, Python, Node.js,** and **Flask**. I love discussing and sharing knowledge!
--   📧 **Connect Directly:** Reach out to me at [swastikkulkarni737@gmail.com](mailto:swastikkulkarni737@gmail.com)
+-   [cite_start]📧 **Connect Directly:** Reach out to me at [swastikkulkarni737@gmail.com](mailto:swastikkulkarni737@gmail.com) [cite: 4]
 -   🔗 **Explore My Journey:**
     -   📄 **My Experiences (Resume/CV):** [View Here](https://drive.google.com/file/d/1sjIAwoENQijbh4AtYn801x5kQR1OoE8l/view?usp=sharing)
-    -   🌐 **Portfolio & Projects Overview:** [Visit My Portfolio](https://swastik3616.github.io/Portfolio/)
+    -   [cite_start]🌐 **Portfolio & Projects Overview:** [Visit My Portfolio](https://swastik3616.github.io/Portfolio/) [cite: 6]
 -   ⚡ **Fun Fact:** I have a surprising passion for Battle Ground Mobile India, despite never having played it! 🎮
 
 ---
@@ -41,28 +41,56 @@
 _Here's a glimpse of the technologies I work with:_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <h4>Languages:</h4>
+  [cite_start]<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/Unix-%23EFD255.svg?style=for-the-badge&logo=unix&logoColor=black" alt="Unix"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/> [cite: 35]
+  <br><br>
+
+  <h4>AI/ML Concepts:</h4>
+  [cite_start]<img src="https://img.shields.io/badge/Machine_Learning-%23FF9900.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/Deep_Learning-%23FF9900.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/Artificial_Intelligence-%23FF9900.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Artificial Intelligence"/> [cite: 35]
+  <br><br>
+
+  <h4>Frameworks & Libraries:</h4>
+  [cite_start]<img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJs"/> [cite: 36]
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  [cite_start]<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/NLTK-306998?style=for-the-badge&logo=nltk&logoColor=white" alt="nltk"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Seaborn-46B8B8?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/CNN-blueviolet?style=for-the-badge" alt="CNN"/> [cite: 36]
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <br><br>
+
+  <h4>Databases:</h4>
+  [cite_start]<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/> [cite: 35]
+  [cite_start]<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> [cite: 35]
+  <br><br>
+
+  <h4>Tools & Platforms:</h4>
+  [cite_start]<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-code"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Collab"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android studio"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/WordPress-%23148FBD.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> [cite: 36]
+  [cite_start]<img src="https://img.shields.io/badge/Shopify-%235C8A8C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/> [cite: 36]
 </p>
 
 ---
