@@ -37,15 +37,6 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,java,bash,html,css,react,nextjs,tailwind,bootstrap,flask,nodejs,mysql,mongodb,firebase,azure,aws,docker,linux,git,tensorflow,pytorch,opencv,sklearn,postman,vscode,figma,wordpress&perline=14" />
-</p>
-
-<p>
-  <sub><b>Also:</b> T-SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Keras &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; Matplotlib &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Gemini LLM &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Cursor AI &nbsp;·&nbsp; Shopify &nbsp;·&nbsp; Shell Scripting</sub>
-</p>
-
----
 
 <div align="center">
   <p>_My GitHub journey at a glance:_</p>
