@@ -2,7 +2,7 @@
   </a>
   <h3 align="center">A Passionate Full Stack Developer & Machine Learning/AI Enthusiast</h3>
   <br>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png">
 </div>
 
 <br>
