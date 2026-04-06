@@ -1,81 +1,47 @@
-<h1 align="center">Hi 👋! I'm Swastik Kulkarni</h1>
-  </a>
-  <h3 align="center">A Passionate Full Stack Developer & Machine Learning/AI Enthusiast</h3>
-  <br>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png">
-</div>
+<h1 align="center">Hi 👋, I'm Swastik Kulkarni!</h1>
 
-<br>
+<h3 align="center">A Passionate Backend Developer & AI Enthusiast from India 🇮🇳</h3>
 
----
-
-### About Me
-
-- 🌱 **Currently Leveling Up:** Diving deep into **Azure** to build more robust and scalable applications.
-- 💬 **Let's Talk Tech:** Feel free to ask me anything about **SQL, MongoDB, Python, Power BI**, and **Flask** — I love sharing knowledge and discussing ideas!
-- 📧 **Connect Directly:** Reach me at [swastikkulkarni737@gmail.com](mailto:swastikkulkarni737@gmail.com)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://instagram.com/swastik3616" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/swastik-kulkarni-45b071247" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack & Tools
-
-_Here’s a glimpse of the technologies I work with:_
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
-  <img src="https://img.shields.io/badge/Unix-%23EFD255.svg?style=for-the-badge&logo=unix&logoColor=black" alt="Unix"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
-  <img src="https://img.shields.io/badge/WordPress-%23148FBD.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Shopify-%235C8A8C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://komarev.com/ghpvc/?username=swastik3616&style=flat-square&color=58a6ff&label=Profile+views" />
+  <a href="https://www.linkedin.com/in/swastik-kulkarni-45b071247">
+    <img src="https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+<br/>
+
+- 🔭 I'm currently working on **CodexArena, DevDocks & CodeArchitect AI**
+- 🌱 I'm currently learning **Azure, System Design, MLOps & CI/CD Pipelines**
+- 💬 Ask me about **Python, Flask, React, MongoDB, SQL, Power BI & Machine Learning**
+- 📫 How to reach me: **swastikkulkarni737@gmail.com**
+
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-snake.svg"/>
+</picture>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,java,bash,html,css,react,nextjs,tailwind,bootstrap,flask,nodejs,mysql,mongodb,firebase,azure,aws,docker,linux,git,tensorflow,pytorch,opencv,sklearn,postman,vscode,figma,wordpress&perline=14" />
+</p>
+ 
+<p>
+  <sub><b>Also:</b> T-SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Keras &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; Matplotlib &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Gemini LLM &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Cursor AI &nbsp;·&nbsp; Shopify &nbsp;·&nbsp; Shell Scripting</sub>
+</p>
+ 
 ---
 
-### 📊 GitHub Stats & Activity
 
 <div align="center">
   <p>_My GitHub journey at a glance:_</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik3616&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="Swastik's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik3616&theme=blue-green&hide_border=false" alt="Swastik's GitHub Streak"/>
   <br/>
 
-  #### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=swastik3616&theme=nord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 
   <br>
 
