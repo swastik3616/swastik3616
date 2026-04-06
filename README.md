@@ -20,10 +20,11 @@
 
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/swastik3616/swastik3616/output/github-contribution-grid-snake.svg"/>
 </picture>
+ 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,java,bash,html,css,react,nextjs,tailwind,bootstrap,flask,nodejs,mysql,mongodb,firebase,azure,aws,docker,linux,git,tensorflow,pytorch,opencv,sklearn,postman,vscode,figma,wordpress&perline=14" />
