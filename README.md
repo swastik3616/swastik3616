@@ -39,7 +39,7 @@
 
 
 <div align="center">
-  <p>_My GitHub journey at a glance:_</p>
+  <p>_My GitHub journey</p>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik3616&theme=blue-green&hide_border=false" alt="Swastik's GitHub Streak"/>
   <br/>
