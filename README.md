@@ -14,7 +14,7 @@
 <br/>
 
 - 🔭 Currently Building AI automation systems using LLMs, LangChain, and LangGraph with real-world project implementations**
-- 💬 Ask me about **Python, Flask, SQL, Firebase, and backend-driven web applications**
+- 💬 Ask me about **Python, Flask, SQL, LLM ,Firebase, and backend-driven web applications**
 - 📫 Reach me at: **swastikkulkarni737@gmail.com**
 
 <br/>
