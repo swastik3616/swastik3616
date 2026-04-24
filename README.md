@@ -22,7 +22,7 @@
 <h3 align="left">⚙️ Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,java,bash,html,css,react,nextjs,tailwind,bootstrap,flask,nodejs,mysql,mongodb,firebase,azure,aws,docker,linux,git,tensorflow,pytorch,opencv,sklearn,postman,vscode,figma,wordpress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,bash,html,css,react,nextjs,tailwind,bootstrap,flask,nodejs,mysql,mongodb,firebase,azure,aws,docker,linux,git,tensorflow,pytorch,opencv,sklearn,postman,vscode,supabase,figma,wordpress&perline=14" />
 </p>
 
 <p>
