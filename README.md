@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swastik Kulkarni!</h1>
 
-<h3 align="center">Backend Developer focused on scalable systems & AI-powered applications development 🚀</h3>
+<h3 align="center">Backend Developer focused on scalable systems & AI-powered applications development </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 
 - 🔭 Currently Building AI automation systems using LLMs, LangChain, and LangGraph with real-world project implementations**
-- 💬 Ask me about **Python, Flask, SQL, LLM ,Firebase, and backend-driven web applications**
+- 💬 Ask me about **Python, Flask, SQL, LLM ,Firebase, Colud Based and backend-driven web applications**
 - 📫 Reach me at: **swastikkulkarni737@gmail.com**
 
 <br/>
