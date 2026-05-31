@@ -14,7 +14,7 @@
 <br/>
 
 - 🔭 Currently Building AI automation systems using LLMs, LangChain, and LangGraph with real-world project implementations**
-- 💬 Ask me about **Python, Flask, SQL, LLM ,Firebase, Colud Based and backend-driven web applications**
+- 💬 Ask me about **Python, Flask, SQL, LLM ,Firebase, Cloud Based and backend-driven web applications**
 - 📫 Reach me at: **swastikkulkarni737@gmail.com**
 
 <br/>
@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <sub><b>Also:</b> T-SQL · Power BI · Keras · NumPy · Pandas · Matplotlib · JWT · Gemini LLM · Prompt Engineering · GitHub Copilot · Cursor AI · Shopify · Shell Scripting</sub>
+  <sub><b>Also:</b> T-SQL · Power BI · Tableau· Keras · NumPy · Pandas · Matplotlib · JWT · Gemini LLM · Prompt Engineering · GitHub Copilot · Cursor AI · Shopify · Shell Scripting</sub>
 </p>
 
 <br/>
