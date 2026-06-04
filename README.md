@@ -13,6 +13,7 @@
 
 <br/>
 
+- 🌱 Currently learning AI automation and workflows**
 - 🔭 Currently Building AI automation systems using LLMs, LangChain, and LangGraph with real-world project implementations**
 - 💬 Ask me about **Python, Flask, SQL, LLM ,Firebase, Cloud Based and backend-driven web applications**
 - 📫 Reach me at: **swastikkulkarni737@gmail.com**
